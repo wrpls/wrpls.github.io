@@ -172,4 +172,17 @@
         <tag>memo</tag>
       </tags>
   </entry>
+  <entry>
+    <title>test</title>
+    <url>/2023/06/09/test/</url>
+    <content><![CDATA[<h2 id="关于github-action的测试"><a href="#关于github-action的测试" class="headerlink" title="关于github action的测试"></a>关于github action的测试</h2><p><a class="link"   href="https://keep.xpoet.cn/2021/03/%E4%BD%BF%E7%94%A8-GitHub-Action-%E8%87%AA%E5%8A%A8%E9%83%A8%E7%BD%B2-Hexo-%E9%9D%99%E6%80%81%E5%8D%9A%E5%AE%A2/" >使用 GitHub Actions 自动部署 Hexo 静态博客 | Keep Theme (xpoet.cn)<i class="fas fa-external-link-alt"></i></a></p>
+]]></content>
+      <categories>
+        <category>github</category>
+      </categories>
+      <tags>
+        <tag>test</tag>
+        <tag>github</tag>
+      </tags>
+  </entry>
 </search>
