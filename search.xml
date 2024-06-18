@@ -30,25 +30,6 @@
       </tags>
   </entry>
   <entry>
-    <title>如何理解抽象的历史概念？</title>
-    <url>/2023/09/16/test1/</url>
-    <content><![CDATA[<p>概念是从大量事实中抽象出来的，因此要想理解历史概念，必须回到事实层面来诠释。以中学历史教科书中提到的中华文明具有多元一体的特点，抽象的解释：中国早期文明的源头是多个的，各地文明相互交流，形成了各有特色，互相交融的中华文化。事实的层面的解释：三星堆的青铜器，在吸引中原青铜器的同时，保留了自已的若干特点。</p>
-<p><img  
-                     lazyload
-                     alt="image"
-                     data-src="https://pic-1257306588.cos.ap-guangzhou.myqcloud.com/img/202309131716553.png"
-                     
-                ></p>
-]]></content>
-      <categories>
-        <category>work</category>
-      </categories>
-      <tags>
-        <tag>test</tag>
-        <tag>work</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>电脑系统重装后博客恢复教程</title>
     <url>/2023/09/17/test2/</url>
     <content><![CDATA[<h2 id="测试"><a href="#测试" class="headerlink" title="测试"></a>测试</h2><h2 id="系统重装后的修复测试1"><a href="#系统重装后的修复测试1" class="headerlink" title="系统重装后的修复测试1"></a>系统重装后的修复测试1</h2><p>电脑重装系统，原来的<code>.ssh</code>丢 失，幸亏<code>onedrive</code>有网络备份。将网络保存的<code>.ssh</code>重新下载放回原位置，检验博客是否正常运行。</p>
@@ -231,11 +212,11 @@
 <p>[^1]: [美]巴巴拉·W·塔奇曼. 历史的技艺. 翻译 张孝铎. 巴巴拉·W·塔奇曼作品. 三辉图书&#x2F;中信出版社, 2016.<br>[^2]: 〔美〕萨拉•斯托多拉 著. 写作中的大作家. 翻译 叶安宁. 人民文学出版社, 2020.<br>[^3]: [美］理查德·马里厄斯和[美］梅尔文·E.佩吉. 历史写作简明指南. 翻译 党程程. 简明写作指南系列. 成都: 四川人民出版社, 2018. </p>
 ]]></content>
       <categories>
-        <category>reading</category>
+        <category>阅读</category>
       </categories>
       <tags>
-        <tag>notes</tag>
-        <tag>book</tag>
+        <tag>阅读</tag>
+        <tag>卡片</tag>
       </tags>
   </entry>
   <entry>
@@ -502,11 +483,10 @@
                 ></p>
 ]]></content>
       <categories>
-        <category>life</category>
+        <category>生活</category>
       </categories>
       <tags>
-        <tag>notes</tag>
-        <tag>memo</tag>
+        <tag>生活随笔</tag>
       </tags>
   </entry>
   <entry>
@@ -769,6 +749,54 @@
       </categories>
       <tags>
         <tag>生活史</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>橘子洲头漫思</title>
+    <url>/2024/04/28/juzizhoutoumansi-%E7%8E%8B%E6%B6%A6%E9%B9%8F%E7%9A%84MacBook%20Air/</url>
+    <content><![CDATA[<blockquote>
+<p>沁园春·长沙</p>
+<p>独立寒秋，湘江北去，橘子洲头。看万山红遍，层林尽染，温江碧透，百舸争流。鹰击长空，鱼翔浅底，万类霜天竞自由。怅廖廓，问苍茫大地，谁主沉浮？</p>
+<p>携来百侣曾游。忆往昔峥嵘岁月稠，恰同学少年，风华正茂，书生意气，挥斥方遒。指点江山，激扬文字，粪士当年万户候。曾记否，到中流击水，浪遏飞舟。</p>
+</blockquote>
+<p>读诗当知人知事，最好还能身处其境。2023年7月，返汕途中有意在长沙停留数日，登麓山，访书院，逛省博，看橘子洲，为得就是读万卷书，亦行万里路。</p>
+<p>查阅资料，这首词是毛泽东于1925年晚秋所作，这时正当国民大革命。毛泽东去广州主持农民运动讲习之际，途经长沙时所写。这一年毛泽东32岁；4年前中国共产党成立，1年前国共第一次合作正式形成，几个月前孙中山先生逝世。“革合尚未成功，同志仍需要努力”的革命遗训，言犹在耳。</p>
+<p>自古文人登山临水，山水是思接千载，月照古今人的山水。湘江碧波无声，向北流去，岳麓山屹立千年，红叶遍地，这是眼中的景。雄鹰飞翔于苍穹，鱼儿游憩于江底，万物生生不息，这是心中的景。江水悠悠而去，山岳百代长青，万物生生不息，人如过眼烟云。谁是万物的主宰？哲人往往执著于探寻宇宙的终极答案。</p>
+<p>从长沙地图上看，橘子洲不过是江中的一块湿地而已，即古人所谓的“汀”。但当你走上橘子洲循江绕行，便知此为“岛”而非“汀”。站在橘子洲头面北而立，左手边是长沙城，贾谊曾生活的地方，也是近代曾国藩、左宗棠等人声名日隆的地方；右手边是巍巍岳麓山及千年书院之岳麓书院，“为楚有材，于斯为盛”的金字招牌，想必青年毛泽东也是极为自豪的。</p>
+<p>孔子曰：三十而立。毛泽东早在30岁前，已经找到为之奋斗终身的事业；然而国家之前途，民族之命运，革命之成败，可谓“月迷津渡，雾失楼台”。毛泽东与同窗好友旧地重游，感慨少年曾经屠龙！然而，有些少年变成了恶龙，旧恶势力依然强大。不过，那个曾经在湘江中游泳，快过飞舟的健儿毛泽东，依旧豪情万丈，不输当年。</p>
+<p>读过万卷书，行万里路便不只是行路。行过万里路，读万卷书便不仅仅是读书。这是此次短驻长沙的感悟。</p>
+<p><img  
+                     lazyload
+                     alt="image"
+                     data-src="https://pic-1257306588.cos.ap-guangzhou.myqcloud.com/uPic/4ddfe376bf6c363b64793f7b08d2bdab.jpeg"
+                      alt="4ddfe376bf6c363b64793f7b08d2bdab"
+                ></p>
+]]></content>
+      <categories>
+        <category>life</category>
+      </categories>
+      <tags>
+        <tag>life</tag>
+        <tag>notes</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>如何理解抽象的历史概念？</title>
+    <url>/2024/03/12/%E5%A6%82%E4%BD%95%E7%90%86%E8%A7%A3%E6%8A%BD%E8%B1%A1%E7%9A%84%E5%8E%86%E5%8F%B2%E6%A6%82%E5%BF%B5%EF%BC%9F/</url>
+    <content><![CDATA[<p>概念是从大量事实中抽象出来的，因此要想理解历史概念，必须回到事实层面来诠释。以中学历史教科书中提到的中华文明具有多元一体的特点，抽象的解释：中国早期文明的源头是多个的，各地文明相互交流，形成了各有特色，互相交融的中华文化。事实的层面的解释：三星堆的青铜器，在吸引中原青铜器的同时，保留了自已的若干特点。</p>
+<p><img  
+                     lazyload
+                     alt="image"
+                     data-src="https://pic-1257306588.cos.ap-guangzhou.myqcloud.com/img/202309131716553.png"
+                     
+                ></p>
+]]></content>
+      <categories>
+        <category>阅读</category>
+      </categories>
+      <tags>
+        <tag>教研</tag>
+        <tag>历史</tag>
       </tags>
   </entry>
 </search>
