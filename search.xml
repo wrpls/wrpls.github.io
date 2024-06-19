@@ -791,4 +791,19 @@
         <tag>记录</tag>
       </tags>
   </entry>
+  <entry>
+    <title>mac端管理hexo博客</title>
+    <url>/2024/06/19/mac%E7%AB%AF%E7%AE%A1%E7%90%86hexo%E5%8D%9A%E5%AE%A2/</url>
+    <content><![CDATA[<p>手边有Mac和Pc，两种电脑都布署了hexo博客，且可以同步更新。但时间久了，mac端如何进入hexo文件，对博客进行管理遗忘了。今天百度查询，步骤如下：</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">1、打开终端；</span><br><span class="line">2、输入cd+空格；</span><br><span class="line">3、将hexo文件夹拖进终端;</span><br><span class="line">4、后续步骤就正常步骤：hexo c;heox n; hexo s; hexo g;hexo d。</span><br></pre></td></tr></table></figure>
+
+]]></content>
+      <categories>
+        <category>github</category>
+      </categories>
+      <tags>
+        <tag>github</tag>
+        <tag>博客</tag>
+      </tags>
+  </entry>
 </search>
