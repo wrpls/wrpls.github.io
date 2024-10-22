@@ -156,3 +156,6 @@ keep-mobile()
 .keep-markdown-body > table tr:nth-child(2n) {
   background-color: var(--background-color-2);
 }
+p {
+  text-indent: 2em;
+}

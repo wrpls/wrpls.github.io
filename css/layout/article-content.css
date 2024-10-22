@@ -201,3 +201,6 @@ keep-tablet()
   top: $header-shrink-height$component-spacing-value;
   max-height: calc(100vh - $header-shrink-height$component-spacing-value);
 }
+p {
+  text-indent: 2em;
+}

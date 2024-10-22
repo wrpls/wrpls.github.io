@@ -773,6 +773,9 @@ button {
 .keep-markdown-body > table tr:nth-child(2n) {
   background-color: var(--background-color-2);
 }
+p {
+  text-indent: 2em;
+}
 :root {
   --primary-color: #06c;
   --primary-color-light-1: #0075eb;
@@ -3501,6 +3504,9 @@ pre .javascript .function {
 .header-shrink .post-page-container .toc-content-container {
   top: 88.4px;
   max-height: calc(100vh - 88.4px);
+}
+p {
+  text-indent: 2em;
 }
 .category-container {
   box-sizing: border-box;
