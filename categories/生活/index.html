@@ -195,142 +195,34 @@
             <div class="main-content">
 
                 
-                    <div class="fade-in-down-animation">
-    <div class="category-container">
-        <div class="category-name">
-            <i class="fas fa-folder"></i>&nbsp;生活
-        </div>
-        <div class="category-post-list">
-            
-<div class="archive-list-container">
-    
-        <section class="archive-item">
-            <div class="archive-item-header">
-                <span class="archive-year">2026</span>
-                <span class="archive-year-post-count">[1]</span>
-            </div>
-            <ul class="article-list">
-                
-                    <li class="article-item">
-                        <a class="article-title"
-                           href="/2026/01/22/2025%EF%BC%9A%E5%BE%88%E7%8B%97%EF%BC%8C%E5%8F%88%E4%B8%80%E5%9C%B0%E9%B8%A1%E6%AF%9B/"
-                        >我的2025</a>
-                        <span class="article-date">01-22</span>
-                    </li>
-                
-            </ul>
-        </section>
-    
-        <section class="archive-item">
-            <div class="archive-item-header">
-                <span class="archive-year">2025</span>
-                <span class="archive-year-post-count">[2]</span>
-            </div>
-            <ul class="article-list">
-                
-                    <li class="article-item">
-                        <a class="article-title"
-                           href="/2025/01/25/%E9%9B%AA%E6%99%AF%E4%B8%80%E9%A6%96/"
-                        >雪景一首</a>
-                        <span class="article-date">01-25</span>
-                    </li>
-                
-                    <li class="article-item">
-                        <a class="article-title"
-                           href="/2025/01/16/say-hi-to-2025/"
-                        >say hi to 2025</a>
-                        <span class="article-date">01-16</span>
-                    </li>
-                
-            </ul>
-        </section>
-    
-        <section class="archive-item">
-            <div class="archive-item-header">
-                <span class="archive-year">2024</span>
-                <span class="archive-year-post-count">[3]</span>
-            </div>
-            <ul class="article-list">
-                
-                    <li class="article-item">
-                        <a class="article-title"
-                           href="/2024/10/22/%E8%87%AA%E5%B7%B1%E5%8A%A8%E6%89%8B%E7%9A%84%E5%BF%AB%E4%B9%90/"
-                        >自己动手的乐事、雅趣</a>
-                        <span class="article-date">10-22</span>
-                    </li>
-                
-                    <li class="article-item">
-                        <a class="article-title"
-                           href="/2024/01/27/%E6%9D%91%E5%8C%BB%E7%94%B0%E5%AD%9D%E5%BF%A0/"
-                        >村医——田孝忠</a>
-                        <span class="article-date">01-27</span>
-                    </li>
-                
-                    <li class="article-item">
-                        <a class="article-title"
-                           href="/2024/01/27/juzizhoutoumansi/"
-                        >橘子洲头漫思</a>
-                        <span class="article-date">01-27</span>
-                    </li>
-                
-            </ul>
-        </section>
-    
-        <section class="archive-item">
-            <div class="archive-item-header">
-                <span class="archive-year">2023</span>
-                <span class="archive-year-post-count">[4]</span>
-            </div>
-            <ul class="article-list">
-                
-                    <li class="article-item">
-                        <a class="article-title"
-                           href="/2023/11/15/%E5%AF%84%E4%B9%A1%E5%8F%8B%E8%8B%8F%E5%A4%A7%E5%85%84%E9%AA%9E/"
-                        >寄乡友苏大兄骞</a>
-                        <span class="article-date">11-15</span>
-                    </li>
-                
-                    <li class="article-item">
-                        <a class="article-title"
-                           href="/2023/07/25/%E3%80%8A%E7%84%A6%E8%A3%95%E7%A6%84%E3%80%8B%E8%A7%82%E5%BD%B1%E6%9C%AD%E8%AE%B0/"
-                        >《焦裕禄》观影札记</a>
-                        <span class="article-date">07-25</span>
-                    </li>
-                
-                    <li class="article-item">
-                        <a class="article-title"
-                           href="/2023/06/14/%E5%BE%B7%E4%B8%8D%E4%BF%AE%E6%98%AF%E5%90%BE%E5%BF%A7/"
-                        >德不修是吾忧</a>
-                        <span class="article-date">06-14</span>
-                    </li>
-                
-                    <li class="article-item">
-                        <a class="article-title"
-                           href="/2023/06/03/2023%E5%B9%B4%E6%98%AF%E6%80%8E%E4%B9%88%E8%BF%87%E6%9D%A5%E7%9A%84/"
-                        >这一年是怎么过来的</a>
-                        <span class="article-date">06-03</span>
-                    </li>
-                
-            </ul>
-        </section>
-    
-</div>
+                    $category-name-font-size = 1.6rem
 
-        </div>
-    </div>
-    <div class="category-paginator">
-        <div class="paginator">
-    
+.category-container {
 
-    
-        <a class="next btn"
-           href="/categories/%E7%94%9F%E6%B4%BB/page/2/"
-        >下一页</a>
-    
-</div>
+  keep-container(false, 0, 0, 2rem, 2rem)
 
-    </div>
-</div>
+  .category-name {
+    margin-bottom $component-spacing-value
+    padding-bottom 20px
+    color var(--text-color-2)
+
+    font-weight 600
+    font-size $category-name-font-size
+    border-bottom 1px solid var(--border-color)
+
+    i {
+      color var(--text-color-2)
+    }
+
+    +keep-tablet() {
+      font-size $category-name-font-size * 0.9
+    }
+
+    +keep-mobile() {
+      font-size $category-name-font-size * 0.8
+    }
+  }
+}
 
 
                 

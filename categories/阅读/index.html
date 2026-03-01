@@ -195,83 +195,34 @@
             <div class="main-content">
 
                 
-                    <div class="fade-in-down-animation">
-    <div class="category-container">
-        <div class="category-name">
-            <i class="fas fa-folder"></i>&nbsp;阅读
-        </div>
-        <div class="category-post-list">
-            
-<div class="archive-list-container">
-    
-        <section class="archive-item">
-            <div class="archive-item-header">
-                <span class="archive-year">2024</span>
-                <span class="archive-year-post-count">[2]</span>
-            </div>
-            <ul class="article-list">
-                
-                    <li class="article-item">
-                        <a class="article-title"
-                           href="/2024/08/25/%E5%88%B6%E9%80%A0%E9%A2%9C%E7%9C%9F%E5%8D%BF%EF%BC%9A%E8%AF%84%E5%80%AA%E9%9B%85%E6%A2%85%E3%80%8A%E4%B8%AD%E6%AD%A3%E4%B9%8B%E7%AC%94%E3%80%8B/"
-                        >制造颜真卿：评倪雅梅《中正之笔》</a>
-                        <span class="article-date">08-25</span>
-                    </li>
-                
-                    <li class="article-item">
-                        <a class="article-title"
-                           href="/2024/01/27/%E5%A6%82%E4%BD%95%E7%90%86%E8%A7%A3%E6%8A%BD%E8%B1%A1%E7%9A%84%E5%8E%86%E5%8F%B2%E6%A6%82%E5%BF%B5%EF%BC%9F/"
-                        >如何理解抽象的历史概念？</a>
-                        <span class="article-date">01-27</span>
-                    </li>
-                
-            </ul>
-        </section>
-    
-        <section class="archive-item">
-            <div class="archive-item-header">
-                <span class="archive-year">2023</span>
-                <span class="archive-year-post-count">[3]</span>
-            </div>
-            <ul class="article-list">
-                
-                    <li class="article-item">
-                        <a class="article-title"
-                           href="/2023/12/03/%E4%BA%86%E8%A7%A3%E5%8B%92%E5%BA%9E%EF%BC%8C%E6%89%A9%E5%A4%A7%E8%AE%A4%E7%9F%A5%E9%9D%A2/"
-                        >了解勒庞，扩大认知面</a>
-                        <span class="article-date">12-03</span>
-                    </li>
-                
-                    <li class="article-item">
-                        <a class="article-title"
-                           href="/2023/07/04/%E5%A4%A7%E6%98%8E%E7%8E%8B%E6%9C%9D1566-%E6%9C%AD%E8%AE%B0%201/"
-                        >大明王朝1566-札记1</a>
-                        <span class="article-date">07-04</span>
-                    </li>
-                
-                    <li class="article-item">
-                        <a class="article-title"
-                           href="/2023/06/03/%E5%85%B3%E4%BA%8E%E5%8D%A1%E7%89%87%E7%AC%94%E8%AE%B0%E7%9A%84%E6%9C%AD%E8%AE%B0/"
-                        >关于卡片笔记的札记</a>
-                        <span class="article-date">06-03</span>
-                    </li>
-                
-            </ul>
-        </section>
-    
-</div>
+                    $category-name-font-size = 1.6rem
 
-        </div>
-    </div>
-    <div class="category-paginator">
-        <div class="paginator">
-    
+.category-container {
 
-    
-</div>
+  keep-container(false, 0, 0, 2rem, 2rem)
 
-    </div>
-</div>
+  .category-name {
+    margin-bottom $component-spacing-value
+    padding-bottom 20px
+    color var(--text-color-2)
+
+    font-weight 600
+    font-size $category-name-font-size
+    border-bottom 1px solid var(--border-color)
+
+    i {
+      color var(--text-color-2)
+    }
+
+    +keep-tablet() {
+      font-size $category-name-font-size * 0.9
+    }
+
+    +keep-mobile() {
+      font-size $category-name-font-size * 0.8
+    }
+  }
+}
 
 
                 
